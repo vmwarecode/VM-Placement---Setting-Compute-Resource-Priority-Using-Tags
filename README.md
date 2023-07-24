@@ -1,1 +1,0 @@
-# VM-Placement---Setting-Compute-Resource-Priority-Using-Tags
